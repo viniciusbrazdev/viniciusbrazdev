@@ -1,6 +1,6 @@
 ## HEY 👋
 
-I'm Vinicius, a gameplay programmer student based on Brazil. 
+I'm Vinicius, a gameplay programming student based on Brazil. 
 I’m currently learning Character Movement, Health & Damage Systems using C++ and Blueprint on Unreal Engine.
 
 Fun Facts:
