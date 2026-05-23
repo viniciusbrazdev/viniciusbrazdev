@@ -1,5 +1,12 @@
-## Hi there 👋
+## HEY 👋
 
+I'm Vinicius, a gameplay programmer student based on Brazil. 
+I’m currently learning Character Movement, Health & Damage Systems using C++ and Blueprint on Unreal Engine.
+
+Fun Facts:
+- I have a Pug
+- Love Comics, Games and Nerd Culture
+- **Hobbies:** Games, Series/Movies, Music
 <!--
 **viniciusbrazdev/viniciusbrazdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
