@@ -1,7 +1,7 @@
 ## HEY 👋
 
-I'm Vinicius, a gameplay programming student based on Brazil. 
-I’m currently learning Character Movement, Health & Damage Systems using C++ and Blueprint on Unreal Engine.
+I'm Vinicius, a Brazilian gameplay programming student. 
+I’m currently learning gameplay systems using C++ and Blueprint on Unreal Engine.
 
 Fun Facts:
 - I have a Pug
