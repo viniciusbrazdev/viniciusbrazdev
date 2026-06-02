@@ -4,7 +4,6 @@ I'm Vinicius, a Brazilian gameplay programming student.
 I’m currently learning gameplay systems using C++ and Blueprint on Unreal Engine.
 
 Fun Facts:
-- I have a Pug
 - Love Comics, Games and Nerd Culture
 - **Hobbies:** Games, Series/Movies, Music
 <!--
